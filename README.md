@@ -3,9 +3,7 @@
 #!/bin/bash
 
 pathDir="/var/www/"
-
 pathApacheAvailable="/etc/apache2/sites-available/"
-
 pathApacheEnabled="/etc/apache2/sites-enabled/"
 pathTYPO3="/var/www/TYPO3/"
 pathTYPO3Version="/var/www/TYPO3/version/"
